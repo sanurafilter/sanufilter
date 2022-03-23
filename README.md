@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/Dark Lord.jpg" alt="Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 Bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
 
 
 ## Features
