@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-I Am Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗
-               Powered By @FilmexCloud"""
+I Am TWN Auto Filter Bot
+               Powered By @TWN_BOTS"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here Is The Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -9,16 +9,16 @@ Here Is The Help For My Commands."""
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 is a closed source project.   
+- TWN Auto Filter Bot is a closed source project.   
 
 <b>DEVS:</b>
 - <a href=https://t.me/Dark_LordSl>༺🅳🅰️🆁🅺 🅻🅾️🆁🅳༻</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and TWN Auto Filter Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 should have admin privillage.
+1. TWN Auto Filter Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -29,11 +29,11 @@ Here Is The Help For My Commands."""
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 Supports both url and alert inline buttons.
+- TWN Auto Filter Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 supports buttons with any telegram media type.
+2. TWN Auto Filter Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -64,7 +64,7 @@ Here Is The Help For My Commands."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of TWN Auto Filter Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -93,12 +93,12 @@ This module only works for my admins
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
-    LOG_TEXT_G = """#NewGroup
+    LOG_TEXT_G = """#NewGroupForPakaya
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NewUserForPakaya
 ID - <code>{}</code>
 Name - {}
 """
